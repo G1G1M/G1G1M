@@ -5,6 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World!!! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 iOS 김지원입니다. </div> 
     </div>
+    <div> </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
