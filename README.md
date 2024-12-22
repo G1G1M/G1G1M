@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Jiwon's%20Repository&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌎 Hello World </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 iOS 개발자 김지원입니다. </div> 
     </div>
@@ -31,7 +31,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KimJiwon&bg_color=180,00000000,&title_color=000000&text_color=000000"
          />  </div> 
     </div>
