@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Jiwon's%20Repository&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: center;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌎 Hello World </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊 Hello Everyone! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 iOS 개발자 김지원입니다. </div> 
     </div>
     <div style="text-align: center;">
