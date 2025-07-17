@@ -22,6 +22,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1G1E&layout=Demo&theme=dark
           <br/></div>
     </div>
     <div style="text-align: center;">
