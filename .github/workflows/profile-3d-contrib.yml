@@ -12,10 +12,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Set current year
+        run: echo "YEAR=$(date +%Y)" >> "$GITHUB_ENV"
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          YEAR: ${{ env.YEAR }}
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
