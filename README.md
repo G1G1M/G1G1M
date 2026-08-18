@@ -31,6 +31,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1G1M&layout=compact&theme=tokyonight"/>
 </p>
 
+<!-- 3D 잔디 -->
+<h2 align="center">🌱 Contribution Graph</h2>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
 <!-- 연락처 -->
 <h2 align="center">🧑‍💻 Contact Me</h2>
 <p align="center">
