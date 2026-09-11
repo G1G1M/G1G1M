@@ -26,11 +26,6 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 </p>
 
-<!-- 사용 언어 통계 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1G1M&layout=compact&theme=tokyonight"/>
-</p>
-
 <!-- 연락처 -->
 <h2 align="center">🧑‍💻 Contact Me</h2>
 <p align="center">
