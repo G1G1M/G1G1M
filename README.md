@@ -18,7 +18,7 @@
 
 <h3>Server</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,nodejs,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs&theme=light" />
 </a>
 
 <!-- 연락처 -->
