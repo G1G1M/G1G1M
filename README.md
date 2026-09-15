@@ -27,20 +27,28 @@
 <ul>
   <li><strong><em>[프로젝트명 미정]</em></strong> — 장애인 공연단(파릇하우스)의 창작 과정을 돕는 서비스, 진행 중 (2026.09 ~ )</li>
   <li><strong><em>See-Through</em></strong> — 지하 매설물 AR 시각화, EXAONE · VARCO 3D · Vision Pro, AI Rookie 경진대회 출품 (2026.03 ~ )</li>
-  <li><strong><em>MOGAPA</em></strong> — 언어 장애인을 위한 AAC 앱, SwiftUI · SwiftData · App Intents · 접근성 검수, 팀 포용용 (2026.07 ~ 2026.08)</li>
-  <li><strong><em>DoUnlock</em></strong> — AR 도어락 비밀번호 관리 앱, Computer Vision 기반 (2026.05 ~ 2026.06)</li>
+  <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C4-A02-Poyongyong"><strong><em>MOGAPA</em></strong></a> — 언어 장애인을 위한 AAC 앱, SwiftUI · SwiftData · App Intents · 접근성 검수, 팀 포용용 (2026.07 ~ 2026.08)</li>
+  <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C3-A13-ManLearning"><strong><em>DoUnlock</em></strong></a> — AR 도어락 비밀번호 관리 앱, Computer Vision 기반 (2026.05 ~ 2026.06)</li>
+</ul>
+
+<br>
+
+<h3>PARD</h3>
+<ul>
+  <li><a href="https://github.com/Club-PARD/Mugejungsim_FE"><strong><em>Moments</em></strong></a> — 3주 롱커톤 여행 아카이빙 앱, UIKit · REST API · 3D 모델 (2024.12 ~ 2025.01)</li>
+  <li><strong><em>띠링</em></strong> — 18시간 해커톤, UIKit · 블루투스 근접 감지 (2024.11)</li>
 </ul>
 
 <br>
 
 <h3>Personal / Team</h3>
 <ul>
-  <li><strong><em>뭐라고</em></strong> — 들리는 대로 친 한글로 일본어 원문을 찾는 학습 앱, SwiftUI · JMdict SQLite 색인 · 온디바이스 번역</li>
-  <li><strong><em>LOLIVE</em></strong> — LoL e스포츠 일정·경기 정보 앱, SwiftData · MVVM · Live Activities · Firebase Analytics</li>
+  <li><a href="https://github.com/HyeonjinBack/Junction2026-team15-junCook"><strong><em>ValleyRisk</em></strong></a> — 계곡 돌발홍수 위험을 실시간으로 계산해 보여주는 iOS 안전 대시보드, 공공 수문·기상 데이터 활용, Junction 2026 해커톤</li>
+  <li><a href="https://github.com/G1G1M/mworago-data"><strong><em>뭐라고</em></strong></a> — 들리는 대로 친 한글로 일본어 원문을 찾는 학습 앱, SwiftUI · JMdict SQLite 색인 · 온디바이스 번역</li>
+  <li><a href="https://github.com/G1G1M/LOLIVE"><strong><em>LOLIVE</em></strong></a> — LoL e스포츠 일정·경기 정보 앱, SwiftData · MVVM · Live Activities · Firebase Analytics</li>
+  <li><a href="https://github.com/G1G1M/Humony"><strong><em>Humony</em></strong></a> — 멜로디를 부르면 화음을 자동 도출해 발성 훈련시켜주는 iOS 앱, YIN 피치 검출 · 실시간 채점</li>
   <li><strong><em>WeatherPet</em></strong> — Live Activity 날씨 펫 앱, ActivityKit · WeatherKit · CoreMotion</li>
   <li><strong><em>바른이안</em></strong> — Vision Framework 자세 인식 기반 운동 자세 교정 앱, 음성 코칭 · 햅틱</li>
-  <li><strong><em>Moments</em></strong> — 3주 롱커톤 여행 아카이빙 앱, UIKit · REST API · 3D 모델</li>
-  <li><strong><em>띠링</em></strong> — 18시간 해커톤, UIKit · 블루투스 근접 감지</li>
   <li><strong><em>NEWbiE</em></strong> — SwiftUI 기반 AI 뉴스 요약 앱, App Store 배포 · 팀 코드리뷰 및 컨벤션 담당</li>
   <li><strong><em>Linky</em></strong> — Flutter · Firebase 기반 링크 저장 및 리마인드 앱, 수업 프로젝트</li>
 </ul>
