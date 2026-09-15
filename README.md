@@ -1,8 +1,3 @@
-<!-- 상단 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Jiwon's%20Repository&animation=twinkling&fontColor=ffffff&fontSize=40" />
-</p>
-
 <!-- 인사 -->
 <h2 align="center">😊 Hello Everyone!</h2>
 <p align="center"><strong>안녕하세요 iOS 개발자 김지원입니다.</strong></p>
