@@ -1,6 +1,7 @@
 <!-- 인사 -->
-<h2>😊 Hello Everyone!</h2>
-<p><strong>안녕하세요 iOS 개발자 김지원입니다.</strong></p>
+<h1>👋 Hi, I'm Jiwon Kim</h1>
+<h3>사용자의 일상을 조금 더 편하게 만드는 iOS 개발자 김지원입니다.</h3>
+<p>Apple Developer Academy @POSTECH에서 iOS 앱을 만들고 있어요.</p>
 
 <!-- 기술 스택 -->
 <h2>🛠️ Tech Stacks</h2>
@@ -13,6 +14,11 @@
 <h3>Web</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,js&theme=light" />
+</a>
+
+<h3>Server</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,mysql&theme=light" />
 </a>
 
 <!-- 연락처 -->
