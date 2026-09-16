@@ -47,7 +47,7 @@
   <li><a href="https://github.com/G1G1M/mworago-data"><strong><em>뭐라고</em></strong></a> — 들리는 대로 친 한글로 일본어 원문을 찾는 학습 앱, SwiftUI · JMdict SQLite 색인 · 온디바이스 번역</li>
   <li><a href="https://github.com/G1G1M/LOLIVE"><strong><em>LOLIVE</em></strong></a> — LoL e스포츠 일정·경기 정보 앱, SwiftData · MVVM · Live Activities · Firebase Analytics</li>
   <li><a href="https://github.com/G1G1M/Humony"><strong><em>Humony</em></strong></a> — 멜로디를 부르면 화음을 자동 도출해 발성 훈련시켜주는 iOS 앱, YIN 피치 검출 · 실시간 채점</li>
-  <li><strong><em>WeatherPet</em></strong> — Live Activity 날씨 펫 앱, ActivityKit · WeatherKit · CoreMotion</li>
+  <li><strong><em>날씨개안네</em></strong> — Live Activity 날씨 펫(강아지/고양이) 앱, ActivityKit · WeatherKit · CoreMotion</li>
   <li><strong><em>바른이안</em></strong> — Vision Framework 자세 인식 기반 운동 자세 교정 앱, 음성 코칭 · 햅틱</li>
   <li><strong><em>NEWbiE</em></strong> — SwiftUI 기반 AI 뉴스 요약 앱, App Store 배포 · 팀 코드리뷰 및 컨벤션 담당</li>
   <li><strong><em>Linky</em></strong> — Flutter · Firebase 기반 링크 저장 및 리마인드 앱, 수업 프로젝트</li>
