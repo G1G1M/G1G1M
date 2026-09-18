@@ -6,7 +6,7 @@
 <!-- 학력 -->
 <h2>Education</h2>
 <ul>
-  <li><strong><em>Apple Developer Academy @POSTECH 5th Learner</em></strong> — iOS Developer (2026.03 ~ 2026.12)</li>
+  <li><strong><em>Apple Developer Academy @POSTECH 5th Learner</em></strong> — iOS Developer (2026.03 ~ )</li>
   <li><strong><em>한동대학교</em></strong> — AI 컴퓨터공학 전공 (2021.03 ~ )</li>
 </ul>
 
