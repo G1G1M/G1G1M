@@ -25,7 +25,7 @@
 
 <h3>Apple Developer Academy @POSTECH</h3>
 <ul>
-  <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C6-A13-Hear-I-am"><strong><em>Hear I am</em></strong></a> — 장애인 공연단(파릇하우스)의 창작 과정을 돕는 서비스, 진행 중 (2026.09 ~ )</li>
+  <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C6-A13-Hear-I-am"><strong><em>Hear I am</em></strong></a> — 시각장애 무용수의 무대 위 이동을 소리·진동으로 안내하는 앱, AirPods 공간 음향 · ARKit 사람 추적 · Apple Watch 햅틱, 장애인 공연단 파릇하우스 협업, 진행 중 (2026.09 ~ )</li>
   <li><strong><em>See-Through</em></strong> — 지하 매설물 AR 시각화, EXAONE · VARCO 3D · Vision Pro, AI Rookie 경진대회 출품 (2026.03 ~ )</li>
   <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C4-A02-Poyongyong"><strong><em>MOGAPA</em></strong></a> — 언어 장애인을 위한 AAC 앱, SwiftUI · SwiftData · App Intents · 접근성 검수, 팀 포용용 (2026.07 ~ 2026.08)</li>
   <li><a href="https://github.com/DeveloperAcademy-POSTECH/2026-C3-A13-ManLearning"><strong><em>DoUnlock</em></strong></a> — AR 도어락 비밀번호 관리 앱, Computer Vision 기반 (2026.05 ~ 2026.06)</li>
