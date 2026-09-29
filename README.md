@@ -50,7 +50,7 @@
   <li><strong><em>날씨개안네</em></strong> — Live Activity 날씨 펫(강아지/고양이) 앱, ActivityKit · WeatherKit · CoreMotion</li>
   <li><strong><em>바른이안</em></strong> — Vision Framework 자세 인식 기반 운동 자세 교정 앱, 음성 코칭 · 햅틱</li>
   <li><strong><em>NEWbiE</em></strong> — SwiftUI 기반 AI 뉴스 요약 앱, App Store 배포 · 팀 코드리뷰 및 컨벤션 담당</li>
-  <li><strong><em>Linky</em></strong> — Flutter · Firebase 기반 링크 저장 및 리마인드 앱, 수업 프로젝트</li>
+  <li><a href="https://github.com/livingdavid/2025_MAD_Linky"><strong><em>Linky</em></strong></a> — Flutter · Firebase 기반 링크 저장 및 리마인드 앱, 수업 프로젝트</li>
 </ul>
 
 <br><br>
