@@ -43,7 +43,6 @@
 
 <h3>Personal / Team</h3>
 <ul>
-  <li><strong><em>Gratitodo</em></strong> — 둘이 각자 하루의 감사 세 줄을 쓰고, 내가 써야 상대 것이 열리는 커플 감사일기 앱, SwiftUI · CloudKit 공유 · WidgetKit 잠금화면 위젯 · TestFlight 배포</li>
   <li><a href="https://github.com/HyeonjinBack/Junction2026-team15-junCook"><strong><em>ValleyRisk</em></strong></a> — 계곡 돌발홍수 위험을 실시간으로 계산해 보여주는 iOS 안전 대시보드, 공공 수문·기상 데이터 활용, Junction 2026 해커톤</li>
   <li><a href="https://github.com/G1G1M/mworago-data"><strong><em>뭐라고</em></strong></a> — 들리는 대로 친 한글로 일본어 원문을 찾는 학습 앱, SwiftUI · JMdict SQLite 색인 · 온디바이스 번역</li>
   <li><a href="https://github.com/G1G1M/LOLIVE"><strong><em>LOLIVE</em></strong></a> — LoL e스포츠 일정·경기 정보 앱, SwiftData · MVVM · Live Activities · Firebase Analytics</li>
