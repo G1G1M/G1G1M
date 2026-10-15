@@ -32,9 +32,9 @@
 
 <br>
 
-<h3>AI-Rookie</h3>
+<h3>인공지능 루키(AI ROOKIE) 대회</h3>
 <ul>
-  <li><a href="https://github.com/smokechicken/UndergroundVision_AI-Rookie"><strong><em>See-Through</em></strong></a> — 지하 매설물 AR 시각화, EXAONE · VARCO 3D · Vision Pro, AI Rookie 경진대회 출품 (2026.03 ~ )</li>
+  <li><a href="https://github.com/smokechicken/UndergroundVision_AI-Rookie"><strong><em>See-Through</em></strong></a> — 지하 매설물 AR 시각화, EXAONE · VARCO 3D · Vision Pro, 2026 인공지능 루키(AI ROOKIE) 대회 출품 (2026.03 ~ )</li>
 </ul>
 
 <br>
